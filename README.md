@@ -1,12 +1,32 @@
 # Rec Room CV2 Keyboard
 
-This is A keyboard that I designed to work in Rec Room that can interface with your real life computer. It works by converting the button pressed into Biary data, which is read by a Python Script to conver it back into the ASCII character.
+This is a keyboard that I designed to work in Rec Room that can interface with your real life computer. It works by converting the button pressed into [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) data, which is read by a Python Script to conver it back into the ASCII character.
 
 ## CV2
 
-Here is a basic schematic on how the data converter works.
+### Schematic
 
-(schema here)
+### Data Table Values
+
+#### Char to HEX
+
+Schema
+```
+```
+
+Data
+```
+```
+
+#### HEX to Color
+
+Schema
+```
+```
+
+Data
+```
+```
 
 ## Python
 
