@@ -18,7 +18,7 @@ This is a keyboard that I designed to work in Rec Room that can interface with y
 
 ## Python
 
-The source code for the Python script can be found [here](https://github.com/RealMCoded/RecRoomKeyboard/blob/main/RecRoomColorToHexpy)
+The source code for the Python script can be found [here](https://github.com/RealMCoded/RecRoomKeyboard/blob/main/RecRoomColorToHex.py)
 
 The only requirements that you need to install are `pynput` and `pyautogui`.
 
