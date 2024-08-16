@@ -4,7 +4,7 @@ This is a keyboard that I designed to work in Rec Room that can interface with y
 
 [Copyable Room with the Keyboard and CV2](https://rec.net/room/RecRoomKeyboard)
 
-[Character to Hexadecimal Invention](https://rec.net/d/store/invention/3690354562335029960)
+[Character to Hexadecimal Invention](https://rec.net/invention/3690354562335029960)
 
 [Python Script](#python)
 
