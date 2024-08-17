@@ -8,6 +8,17 @@ This is a keyboard that I designed to work in Rec Room that can interface with y
 
 [Python Script](#python)
 
+## Usage
+
+You are free to use this project for whatever you want. However, it is under the [GPLv3 license](https://github.com/RealMCoded/RecRoomKeyboard/blob/main/LICENSE), so if you do make changes and use it in a commercial way, you must make your changes public.
+
+Although not required, I would appreciate it if you credited me somehow. Some ways you can do this is by linking:
+
+- This Repo (https://github.com/RealMCoded/RecRoomKeyboard)
+- This video (https://youtu.be/6WDgR726RJk)
+- My YouTube channel (https://youtube.com/@stuarttmcoded)
+- My RecNet profilet (https://rec.net/user/stuartt)
+
 ## CV2 Schematics
 
 > todo: improve these!
