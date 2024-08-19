@@ -17,7 +17,8 @@ Although not required, I would appreciate it if you credited me somehow. Some wa
 - This Repo (https://github.com/RealMCoded/RecRoomKeyboard)
 - This video (https://youtu.be/6WDgR726RJk)
 - My YouTube channel (https://youtube.com/@stuarttmcoded)
-- My RecNet profilet (https://rec.net/user/stuartt)
+- My RecNet profile
+(https://rec.net/user/stuartt)
 
 ## CV2 Schematics
 
